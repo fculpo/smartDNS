@@ -116,3 +116,9 @@ smooth.misc.lv3.hbogo.com
 smooth.pro17.lv3.hbogo.com
 reporting.hbogo.com
 register.hbogo.com
+southpark.cc.com
+hulu.com
+www.hulu.com
+secure.hulu.com
+netflix.com
+pandora.com
